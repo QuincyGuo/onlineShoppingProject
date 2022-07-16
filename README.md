@@ -4,3 +4,27 @@
 项目包括首页, 搜索列表, 商品详情, 购物车, 订单, 支付, 用户登陆/注册等多个子模块。
 
 使用VueRouter路由、Vuex、Mock模拟数据、Token、导航守卫、Axios、全局组件封装等前端技术。
+
+## Project setup
+
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+
+```
+npm run build
+```
+
+### Lints and fixes files
+
+```
+npm run lint
+```
